@@ -1,0 +1,7 @@
+name = "advcomment"
+description = "A advanced drop in replacment for the comments Modul"
+version = 1
+author_name = "Urgulum"
+author_url = "http://codex.galleryproject.org/Gallery:Team"
+info_url = "http://codex.galleryproject.org/Gallery3:Modules:info"
+discuss_url = "http://galleryproject.org/forum_module_info"

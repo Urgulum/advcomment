@@ -1,0 +1,35 @@
+fieldset {
+    float:left;
+    text-align:left;
+}
+input {
+    border-style: solid;
+    border-width: 1px;
+}
+
+.comment-block{
+	margin: 20px 0 20px 20px;
+}
+.comment-item{
+	overflow: hidden;
+	width: 500px;
+	clear: both;
+	padding: 10px;
+	border-bottom: 1px solid #E6E6E6;
+	border-radius: 5px;
+	margin: 5px;
+}
+.comment-avatar{
+	width: 60px;
+	float: left;
+}
+.comment-avatar img{
+	width: 60px;
+	height: 60px;
+	border-radius: 5px;
+}
+.comment-post{
+	width: 400px;
+	float: left;
+	padding: 0 5px 0 10px;
+}
